@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\DragonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DragonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\Joystick Pack\\Scripts\\DragonFireController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Joystick Pack\\Scripts\\DragonFireController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\DragonAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DragonAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\ExitButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ExitButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\Joystick Pack\\Scripts\\Joysticks\\FloatingJoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Joystick Pack\\Scripts\\Joysticks\\FloatingJoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\Joystick Pack\\Scripts\\Joysticks\\FixedJoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Joystick Pack\\Scripts\\Joysticks\\FixedJoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\Joystick Pack\\Scripts\\Editor\\DynamicJoystickEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Joystick Pack\\Scripts\\Editor\\DynamicJoystickEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\DragonAudioStart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DragonAudioStart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Temp\\Compiled-UI-Default.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Temp\\Compiled-UI-Default.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\PrefabCreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PrefabCreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DragonFireController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\Joystick Pack\\Scripts\\DragonFireController.cs",
+              "RelativeDocumentMoniker": "Assets\\Joystick Pack\\Scripts\\DragonFireController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\Joystick Pack\\Scripts\\DragonFireController.cs",
+              "RelativeToolTip": "Assets\\Joystick Pack\\Scripts\\DragonFireController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:17:43.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DragonAttack.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\DragonAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\DragonAttack.cs",
+              "ToolTip": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\DragonAttack.cs",
+              "RelativeToolTip": "Assets\\DragonAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T06:54:29.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FloatingJoystick.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\Joystick Pack\\Scripts\\Joysticks\\FloatingJoystick.cs",
+              "RelativeDocumentMoniker": "Assets\\Joystick Pack\\Scripts\\Joysticks\\FloatingJoystick.cs",
+              "ToolTip": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\Joystick Pack\\Scripts\\Joysticks\\FloatingJoystick.cs",
+              "RelativeToolTip": "Assets\\Joystick Pack\\Scripts\\Joysticks\\FloatingJoystick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:51:16.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FixedJoystick.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\Joystick Pack\\Scripts\\Joysticks\\FixedJoystick.cs",
+              "RelativeDocumentMoniker": "Assets\\Joystick Pack\\Scripts\\Joysticks\\FixedJoystick.cs",
+              "ToolTip": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\Joystick Pack\\Scripts\\Joysticks\\FixedJoystick.cs",
+              "RelativeToolTip": "Assets\\Joystick Pack\\Scripts\\Joysticks\\FixedJoystick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:50:48.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DynamicJoystickEditor.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\Joystick Pack\\Scripts\\Editor\\DynamicJoystickEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Joystick Pack\\Scripts\\Editor\\DynamicJoystickEditor.cs",
+              "ToolTip": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\Joystick Pack\\Scripts\\Editor\\DynamicJoystickEditor.cs",
+              "RelativeToolTip": "Assets\\Joystick Pack\\Scripts\\Editor\\DynamicJoystickEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:19:08.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExitButton.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\ExitButton.cs",
+              "RelativeDocumentMoniker": "Assets\\ExitButton.cs",
+              "ToolTip": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\ExitButton.cs",
+              "RelativeToolTip": "Assets\\ExitButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T20:47:39.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DragonAudioStart.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\DragonAudioStart.cs",
+              "RelativeDocumentMoniker": "Assets\\DragonAudioStart.cs",
+              "ToolTip": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\DragonAudioStart.cs",
+              "RelativeToolTip": "Assets\\DragonAudioStart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T20:26:51.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DragonController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\DragonController.cs",
+              "RelativeDocumentMoniker": "Assets\\DragonController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\DragonController.cs",
+              "RelativeToolTip": "Assets\\DragonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T20:20:04.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Compiled-UI-Default.shader",
+              "DocumentMoniker": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Temp\\Compiled-UI-Default.shader",
+              "RelativeDocumentMoniker": "Temp\\Compiled-UI-Default.shader",
+              "ToolTip": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Temp\\Compiled-UI-Default.shader",
+              "RelativeToolTip": "Temp\\Compiled-UI-Default.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-11T18:22:57.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:26:51.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PrefabCreator.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\PrefabCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabCreator.cs",
+              "ToolTip": "C:\\Users\\Asus\\Unity Projects\\ARVR Projects\\AR Dragon\\Assets\\PrefabCreator.cs",
+              "RelativeToolTip": "Assets\\PrefabCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T20:04:07.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
