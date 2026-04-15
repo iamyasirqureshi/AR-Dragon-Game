@@ -459,7 +459,7 @@ Please open a [GitHub Issue](https://github.com/iamyasirqureshi/AR-Dragon-Game/i
 
 [![GitHub](https://img.shields.io/badge/GitHub-iamyasirqureshi-181717?style=for-the-badge&logo=github)](https://github.com/iamyasirqureshi)
 [![Unity](https://img.shields.io/badge/Built%20With-Unity%206-000000?style=for-the-badge&logo=unity)](https://unity.com)
-[![Made in](https://img.shields.io/badge/Made%20in-Pakistan%20🇵🇰-006600?style=for-the-badge)](https://github.com/iamyasirqureshi)
+
 
 <br/>
 
